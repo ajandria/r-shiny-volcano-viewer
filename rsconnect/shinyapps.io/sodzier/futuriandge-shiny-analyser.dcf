@@ -1,0 +1,13 @@
+name: futuriandge-shiny-analyser
+title: futuriandge-shiny-analyser
+username:
+account: sodzier
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8823266
+bundleId: 7077074
+url: https://sodzier.shinyapps.io/futuriandge-shiny-analyser/
+when: 1681245426.07063
+lastSyncTime: 1681245426.07065
+asMultiple: FALSE
+asStatic: FALSE
